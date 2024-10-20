@@ -1,0 +1,3 @@
+﻿  tpwodl rety.c
+C:\Users\mailt\source\repos\tpwodl retry\tpwodl retry\tpwodl rety.c(27,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  tpwodl retry.vcxproj -> C:\Users\mailt\source\repos\tpwodl retry\x64\Debug\tpwodl retry.exe
