@@ -15,10 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="tpwodl calc.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="tpwodl_1.c">
+    <ClCompile Include="tpwodl rety.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

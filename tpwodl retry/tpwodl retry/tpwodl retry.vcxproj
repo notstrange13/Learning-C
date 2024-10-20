@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{17c89dfc-915c-4238-b72d-5543074919a9}</ProjectGuid>
-    <RootNamespace>tpwodlcalc</RootNamespace>
+    <ProjectGuid>{bd954f9c-a60e-4656-a675-2318abc392fb}</ProjectGuid>
+    <RootNamespace>tpwodlretry</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -127,8 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="tpwodl calc.c" />
-    <ClCompile Include="tpwodl_1.c" />
+    <ClCompile Include="tpwodl rety.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
